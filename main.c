@@ -5,7 +5,7 @@
  * Simple Terminal HexView with C99
  *
  * Example use
- *  simple_terminal_hexview.exe -f filename.bin
+ *  simple_terminal_hexview.exe -[your imagination without space like variable :)] filename.bin
  * */
 
 #include <stdio.h>
