@@ -6,6 +6,8 @@
  *
  * Example use
  *  simple_terminal_hexview.exe -[your imagination without space like variable :)] filename.bin
+ *  simple_terminal_hexview.exe -f filename.bin
+ *  simple_terminal_hexview.exe -f*ck filename.bin
  * */
 
 #include <stdio.h>
