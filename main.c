@@ -1,6 +1,6 @@
 /*
  * Author:              Fatih Mert Doğancan
- * Author Web:          fatihmertdogancan.com
+ * Author Web:          fatihmert.dev
  *
  * Simple Terminal HexView with C99
  *
